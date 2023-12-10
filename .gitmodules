@@ -1,4 +1,4 @@
 [submodule "external/zlib"]
     path = external/zlib
     url = https://github.com/joaquinbejar/zlib.git
-    branch = fix-warnings
+    branch = v0.1.0
